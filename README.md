@@ -1,7 +1,7 @@
 # sudoku-solver
-Domain: JavaScript | Programming Language: HTML5, CSS,  JavaScript, C++, Backtracking Algorithm. • Built a memory Game using C++ and JavaScript to test IQ. • Upgraded code to make the game error-free. • Created HTML, CSS, JavaScript, and JSP pages for user  interaction
+Domain: JavaScript | Programming Language: HTML5, CSS,  JavaScript, Java, Backtracking Algorithm. • Built a memory Game using Java and JavaScript to test IQ. • Upgraded code to make the game error-free. • Created HTML, CSS, JavaScript, and JSP pages for user  interaction
 # About
-This is a Sudoku Solver project that uses **HTML5**, **CSS**, **JavaScript**, and **C++** to solve Sudoku puzzles. The solver uses a backtracking algorithm to recursively test different values until a solution is found.
+This is a Sudoku Solver project that uses **HTML5**, **CSS**, **JavaScript**, and **Java** to solve Sudoku puzzles. The solver uses a backtracking algorithm to recursively test different values until a solution is found.
 
 # Getting Started
 To use the Sudoku Solver, simply open the *index.html* file in your web browser. You will be presented with a **Sudoku puzzle** to solve. To enter a value, click on a cell and type in the number you want to add. To erase a value, click on the cell and press the delete key.
